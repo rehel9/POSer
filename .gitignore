@@ -1,0 +1,5 @@
+# Excludes IDE configuratuion
+.idea/
+
+#Excludes python`s virtual enviroment
+venv
