@@ -3,3 +3,6 @@
 
 #Excludes python`s virtual enviroment
 venv
+
+#Exclude IDE sql configuration
+identifier.sqlite
